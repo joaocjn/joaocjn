@@ -1,4 +1,6 @@
-### Olá, Eu sou o João Cândido • Desenvolvedor Front-end 🚀
+### Olá, Eu sou o João Cândido ;)
+Desenvolvedor Front-end 🚀
+Seja bem-vindo ao meu GitHub!
 
 <!--
 **joaocjn/joaocjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
