@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 <div><br>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=cypress,js,adonis,laravel,react,html,css,bootstrap" />
   </a>
 </div>
   <br>
