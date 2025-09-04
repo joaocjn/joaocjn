@@ -1,6 +1,6 @@
 ### Hey there, I'm João Cândido 😄
 SDET/QA Specialist and Full Stack Developer 🚀
-Seja bem-vindo ao meu GitHub! 
+Welcome to my GitHub! 
 
 <!--
 **joaocjn/joaocjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
