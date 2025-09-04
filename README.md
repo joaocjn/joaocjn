@@ -1,5 +1,5 @@
-### Olá, Eu sou o João Cândido 😄
-Analista de Teste/QA & Desenvolvedor Full Stack 🚀
+### Hey there, I'm João Cândido 😄
+SDET/QA Specialist and Full Stack Developer 🚀
 Seja bem-vindo ao meu GitHub! 
 
 <!--
