@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 </div>
 <div><br>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cypress,js,adonis,laravel,react,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=aws,python,js,nodejs,cypress,adonis,laravel,react,html,css,bootstrap" />
   </a>
 </div>
   <br>
 <div>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-c%C3%A2ndido-61534815a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/joaocjn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://api.whatsapp.com/send?phone=+5562982607767" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
    <a href="mailto:jcandidojneto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
